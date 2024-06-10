@@ -5,3 +5,8 @@ linuxserver/calibre-web
 python
 markliu2018/moneynote-all
 wallabag/wallabag
+deluan/navidrome
+linuxserver/qbittorrent
+allanpk716/chinesesubfinder
+stashapp/stash
+
