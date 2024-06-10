@@ -4,3 +4,4 @@ homeassistant/home-assistant
 linuxserver/calibre-web
 python
 markliu2018/moneynote-all
+wallabag/wallabag
