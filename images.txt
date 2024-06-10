@@ -9,4 +9,5 @@ deluan/navidrome
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
 stashapp/stash
-
+ddsderek/easyimage
+hslr/sun-panel
