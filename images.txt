@@ -11,3 +11,4 @@ allanpk716/chinesesubfinder
 stashapp/stash
 ddsderek/easyimage
 hslr/sun-panel
+mysql
