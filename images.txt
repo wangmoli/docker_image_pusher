@@ -15,3 +15,4 @@ mysql
 python
 markliu2018/moneywhere-all-no-mysql
 markliu2018/moneywhere-api-user
+markliu2018/moneywhere-base-no-mysql
