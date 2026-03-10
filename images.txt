@@ -21,3 +21,4 @@ nastool/nas-tools
 hanxi/xiaomusic
 fireflyiii/core
 halohub/halo
+vaultwarden/server
