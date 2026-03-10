@@ -23,3 +23,5 @@ fireflyiii/core
 halohub/halo
 vaultwarden/server
 bitwarden/passwordless-self-host
+Bitwarden/Passwordless-test-API
+Bitwarden/BWS
