@@ -22,3 +22,4 @@ hanxi/xiaomusic
 fireflyiii/core
 halohub/halo
 vaultwarden/server
+bitwarden/passwordless-self-host
