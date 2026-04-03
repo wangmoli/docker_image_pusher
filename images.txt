@@ -26,3 +26,4 @@ bitwarden/passwordless-self-host
 Bitwarden/Passwordless-test-API
 Bitwarden/BWS
 mayanghua/instock
+marcobaobao/yt-dlp-webui
