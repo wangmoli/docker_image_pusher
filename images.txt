@@ -1,2 +1,1 @@
 vaultwarden/server
-teddysun/v2ray
